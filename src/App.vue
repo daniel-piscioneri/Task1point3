@@ -8,6 +8,7 @@ import FooterComponent from './components/FooterComponent.vue';
 
 <!-- Fix footer -->
 <template>
+  <img alt="Dragnoite Logo" class="logo" src="@/assets/dragonite.svg" width="125" height="125"/>
   <div class="nav-container">
     <input type="checkbox" id="menu-toggle" class="menu-toggle">
     <label for="menu-toggle" class="dropdown-btn">Menu</label>
