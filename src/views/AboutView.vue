@@ -6,13 +6,13 @@
     <div class="about-content">
       <h1>About Me</h1>
       <p>
-        Hello! I'm [Your Name], a passionate web developer with over [X years] of experience in creating dynamic and responsive websites. I specialize in [specific technologies or fields, e.g., "React, Vue.js, and Node.js"].
+        Hello! I'm Daniel Piscioneri, a passionate web developer with over 10 years of experience in creating dynamic and responsive websites. I specialize in HTML and CSS as wel as being able to us C.
       </p>
       <p>
-        I graduated from [Your University or School] with a degree in [Your Degree]. Since then, I've worked with various clients and companies, delivering high-quality web solutions.
+        I graduated from Deakin University with a degree in Bacholers of Computer Science. Since then, I've worked with various clients and companies, delivering high-quality web solutions.
       </p>
       <p>
-        In my free time, I love [your hobbies, e.g., "hiking, reading tech blogs, and exploring new coffee shops"].
+        In my free time, I love go camping and fishing as well as play videos.
       </p>
       <button class="download-btn">Download My Resume</button>
       <p>
