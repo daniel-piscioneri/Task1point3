@@ -8,7 +8,7 @@ import FooterComponent from './components/FooterComponent.vue';
 
 <!-- Fix footer -->
 <template>
-  <img alt="Dragnoite Logo" class="logo" src="@/assets/dragonite.svg" width="125" height="125"/>
+  <img alt="Logo" class="logo" src="@/assets/dragonite.svg" width="125" height="125"/>
   <div class="nav-container">
     <input type="checkbox" id="menu-toggle" class="menu-toggle">
     <label for="menu-toggle" class="dropdown-btn">Menu</label>
@@ -35,7 +35,7 @@ import FooterComponent from './components/FooterComponent.vue';
 
 </template>
 
-<!-- 
+<!--
 <template>
   <div class="nav-container">
     <input type="checkbox" id="menu-toggle" class="menu-toggle">
@@ -58,6 +58,11 @@ import FooterComponent from './components/FooterComponent.vue';
   display: flex;
   flex-direction: column;
   min-height: 100vh; /* This ensures the container takes at least the full height of the viewport */
+}
+
+.logo {
+  display: block;
+  margin: 0 auto 2rem;
 }
 
 .content-wrapper {
