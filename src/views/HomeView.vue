@@ -31,7 +31,8 @@
 <script setup>
 import { ref } from 'vue';
 
-import projectImage1 from '../assets/images/378265135_2342852519220661_2360878974908914406_n.jpg';
+import projectImage1 from '../assets/images/screenshot.jpeg';
+import projectImage2 from '../assets/images/screenshot2.jpeg';
 
 
 const projects = ref([
@@ -45,7 +46,7 @@ const projects = ref([
     id: 2,
     name: 'Project Two',
     description: 'This is the second prject as part of SIT120.',
-    image: projectImage1
+    image: projectImage2
   },
   // ... add more projects as needed
 ]);
