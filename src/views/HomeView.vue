@@ -39,13 +39,13 @@ const projects = ref([
   {
     id: 1,
     name: 'Project One',
-    description: 'This project was the first html project created as part of SIT120.',
+    description: 'This project was the first html project created as part of SIT120. This project consists of being able to incorporate CSS as well as HTML into the project itself. The output of this project was a web page that contains tables, images and forms',
     image: projectImage1
   },
   {
     id: 2,
     name: 'Project Two',
-    description: 'This is the second prject as part of SIT120.',
+    description: 'This is the second prject as part of SIT120. This allows for mant JS methods such as string, number and Array methods as well as much more. This project also  included responsive features.',
     image: projectImage2
   },
   // ... add more projects as needed
