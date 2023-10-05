@@ -1,13 +1,13 @@
 <template>
   <section class="portfolio-home">
     <header class="portfolio-header">
-      <h1>John Doe</h1>
+      <h1>Daniel Piscioneri</h1>
       <p>Web Developer & Designer</p>
     </header>
 
     <section class="portfolio-intro">
       <p>
-        Hello! I'm John, a passionate web developer with over 5 years of experience. I love creating responsive and user-friendly websites. Check out my projects below!
+        Hello! I'm Daniel, a passionate web developer with over 5 years of experience. I love creating responsive and user-friendly websites. Check out my projects below!
       </p>
     </section>
 
@@ -38,13 +38,13 @@ const projects = ref([
   {
     id: 1,
     name: 'Project One',
-    description: 'A description of project one.',
+    description: 'This project was the first html project created as part of SIT120.',
     image: projectImage1
   },
   {
     id: 2,
     name: 'Project Two',
-    description: 'A description of project two.',
+    description: 'This is the second prject as part of SIT120.',
     image: projectImage1
   },
   // ... add more projects as needed

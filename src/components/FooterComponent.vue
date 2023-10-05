@@ -3,7 +3,7 @@
       <div class="footer-content">
         <div class="footer-section">
           <h4>About Us</h4>
-          <p>We are a team of passionate developers and designers dedicated to creating the best web experiences.</p>
+          <p>I am a new web developr who is currently studying SIT120 and this is my portfolio website that displays all of the aspects I have learnt thus far.</p>
         </div>
         <div class="footer-section">
           <h4>Quick Links</h4>
@@ -16,9 +16,9 @@
         </div>
         <div class="footer-section">
           <h4>Contact Info</h4>
-          <p><i class="fas fa-map-marker-alt"></i> 123 Street, City, Country</p>
-          <p><i class="fas fa-phone"></i> +1 234 567 890</p>
-          <p><i class="fas fa-envelope"></i> contact@example.com</p>
+          <p><i class="fas fa-map-marker-alt"></i> Deakin University Building LB 70 Elgar Rd, Burwood, Australia</p>
+          <p><i class="fas fa-phone"></i> 1800 693 888</p>
+          <p><i class="fas fa-envelope"></i> s222248161@deakin.edu.au</p>
         </div>
       </div>
       <div class="footer-bottom">
