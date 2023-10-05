@@ -16,7 +16,7 @@
       </p>
       <a class="download-btn" href="/Users/danielpiscioneri/Desktop/Uni/2023/T2/Introduction to Responsive Web Apps/Week 10/Week10/DanielResume2.pdf " download>Download My Resume</a>
       <p>
-        Thank you for visiting my portfolio. If you'd like to collaborate or just chat, feel free to <a href="mailto:your-email@example.com">reach out</a>!
+        Thank you for visiting my portfolio. If you'd like to collaborate or just chat, feel free to <b href="mailto:your-email@example.com">reach out</b>!
       </p>
     </div>
   </section>
@@ -73,13 +73,13 @@
   line-height: 1.6;
 }
 
-.about-content a {
+.about-content b {
   color: #e74c3c;
   text-decoration: none;
   transition: color 0.3s;
 }
 
-.about-content a:hover {
+.about-content b:hover {
   color: #c0392b;
 }
 
