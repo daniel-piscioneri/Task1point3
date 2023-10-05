@@ -14,7 +14,7 @@
       <p>
         In my free time, I love go camping and fishing as well as play videos.
       </p>
-      <a class="download-btn" href="DanielResume2.pdf" download>Download My Resume</a>
+      <button class="download-btn" href="DanielResume2.pdf " download>Download My Resume</button>
       <p>
         Thank you for visiting my portfolio. If you'd like to collaborate or just chat, feel free to <a href="mailto:your-email@example.com">reach out</a>!
       </p>
