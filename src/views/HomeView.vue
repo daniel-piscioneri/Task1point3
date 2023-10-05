@@ -32,7 +32,7 @@
 import { ref } from 'vue';
 
 import projectImage1 from '../assets/images/378265135_2342852519220661_2360878974908914406_n.jpg';
-import projectImage2 from '../assets/images/screenshot2.jpeg';
+// import projectImage2 from '../assets/images/screenshot2.jpeg';
 
 
 const projects = ref([
