@@ -23,7 +23,7 @@
     </section>
 
     <footer class="portfolio-footer">
-      <p>Thank you for visiting! Let's <a href="mailto:john@example.com">connect</a>.</p>
+      <p>Thank you for visiting! Let's <a href="mailto:danielp2811@gmail.com">connect</a>.</p>
     </footer>
   </section>
 </template>
