@@ -46,7 +46,7 @@ const projects = ref([
     id: 2,
     name: 'Project Two',
     description: 'This is the second prject as part of SIT120.',
-    image: projectImage2
+    image: projectImage1
   },
   // ... add more projects as needed
 ]);
