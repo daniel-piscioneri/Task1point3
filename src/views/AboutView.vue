@@ -1,7 +1,7 @@
 <template>
   <section class="about-me-page">
     <div class="profile-image">
-      <img src="../assets/images/71094340216__3B5E33C2-E1DF-42B0-9952-EEA122054DB5.jpg" alt="Your Name" class="hover-effect">
+      <img src="../assets/images/me.jpg" alt="Your Name" class="hover-effect">
     </div>
     <div class="about-content">
       <h1>About Me</h1>
